@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/One-Bad-Banana/Outlands-Bestiary-Trainer/static/css/main.9aebff94.css",
+    "main.js": "/One-Bad-Banana/Outlands-Bestiary-Trainer/static/js/main.80f6e756.js",
+    "index.html": "/One-Bad-Banana/Outlands-Bestiary-Trainer/index.html",
+    "main.9aebff94.css.map": "/One-Bad-Banana/Outlands-Bestiary-Trainer/static/css/main.9aebff94.css.map",
+    "main.80f6e756.js.map": "/One-Bad-Banana/Outlands-Bestiary-Trainer/static/js/main.80f6e756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aebff94.css",
+    "static/js/main.80f6e756.js"
+  ]
+}
