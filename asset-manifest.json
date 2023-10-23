@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Outlands-Bestiary-Trainer/static/css/main.9aebff94.css",
-    "main.js": "/Outlands-Bestiary-Trainer/static/js/main.80f6e756.js",
+    "main.js": "/Outlands-Bestiary-Trainer/static/js/main.52da8bff.js",
     "index.html": "/Outlands-Bestiary-Trainer/index.html",
     "main.9aebff94.css.map": "/Outlands-Bestiary-Trainer/static/css/main.9aebff94.css.map",
-    "main.80f6e756.js.map": "/Outlands-Bestiary-Trainer/static/js/main.80f6e756.js.map"
+    "main.52da8bff.js.map": "/Outlands-Bestiary-Trainer/static/js/main.52da8bff.js.map"
   },
   "entrypoints": [
     "static/css/main.9aebff94.css",
-    "static/js/main.80f6e756.js"
+    "static/js/main.52da8bff.js"
   ]
 }
